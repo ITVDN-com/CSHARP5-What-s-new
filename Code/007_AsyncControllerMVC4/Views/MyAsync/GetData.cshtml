@@ -1,0 +1,25 @@
+﻿@using System.Threading
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>GetData</title>
+</head>
+<body>
+    <div>
+        Ответ от удаленной службы :
+        <br />
+
+        @ViewBag.Message
+
+        <br />
+
+@*        Поток IIS: @Thread.CurrentThread.ManagedThreadId*@
+        
+    </div>
+</body>
+</html>

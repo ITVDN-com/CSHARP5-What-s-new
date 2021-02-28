@@ -1,0 +1,26 @@
+﻿<Window x:Class="AsyncFetch.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <Button
+            x:Name="getButton"
+            HorizontalAlignment="Left"
+            Width="75"
+            Content="_Get Data"
+            Click="GetButtonClick"
+            />
+
+        <TextBox
+            x:Name="dataTextBox"
+            Margin="4"
+            Grid.Row="1"
+            />
+        <ProgressBar Grid.Row="1" Height="10" VerticalAlignment="Bottom"/>
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+C:\Users\Oleg\Videos\Developer\Plurlsight\Pluralsight\What's new in C#5\materials\WithC#5\AsyncFetch\bin\Debug\AsyncFetch.exe.config
+C:\Users\Oleg\Videos\Developer\Plurlsight\Pluralsight\What's new in C#5\materials\WithC#5\AsyncFetch\bin\Debug\AsyncFetch.exe
+C:\Users\Oleg\Videos\Developer\Plurlsight\Pluralsight\What's new in C#5\materials\WithC#5\AsyncFetch\bin\Debug\AsyncFetch.pdb
+C:\Users\Oleg\Videos\Developer\Plurlsight\Pluralsight\What's new in C#5\materials\WithC#5\AsyncFetch\obj\x86\Debug\MainWindow.baml
+C:\Users\Oleg\Videos\Developer\Plurlsight\Pluralsight\What's new in C#5\materials\WithC#5\AsyncFetch\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Oleg\Videos\Developer\Plurlsight\Pluralsight\What's new in C#5\materials\WithC#5\AsyncFetch\obj\x86\Debug\App.g.cs
+C:\Users\Oleg\Videos\Developer\Plurlsight\Pluralsight\What's new in C#5\materials\WithC#5\AsyncFetch\obj\x86\Debug\AsyncFetch_MarkupCompile.cache
+C:\Users\Oleg\Videos\Developer\Plurlsight\Pluralsight\What's new in C#5\materials\WithC#5\AsyncFetch\obj\x86\Debug\AsyncFetch.g.resources
+C:\Users\Oleg\Videos\Developer\Plurlsight\Pluralsight\What's new in C#5\materials\WithC#5\AsyncFetch\obj\x86\Debug\AsyncFetch.Properties.Resources.resources
+C:\Users\Oleg\Videos\Developer\Plurlsight\Pluralsight\What's new in C#5\materials\WithC#5\AsyncFetch\obj\x86\Debug\AsyncFetch.csproj.GenerateResource.Cache
+C:\Users\Oleg\Videos\Developer\Plurlsight\Pluralsight\What's new in C#5\materials\WithC#5\AsyncFetch\obj\x86\Debug\AsyncFetch.exe
+C:\Users\Oleg\Videos\Developer\Plurlsight\Pluralsight\What's new in C#5\materials\WithC#5\AsyncFetch\obj\x86\Debug\AsyncFetch.pdb
+C:\Cources\C# 5 async and await\Code\005_AsyncWebClient\bin\Debug\AsyncFetch.exe.config
+C:\Cources\C# 5 async and await\Code\005_AsyncWebClient\obj\x86\Debug\AsyncFetch.exe
+C:\Cources\C# 5 async and await\Code\005_AsyncWebClient\obj\x86\Debug\AsyncFetch.pdb

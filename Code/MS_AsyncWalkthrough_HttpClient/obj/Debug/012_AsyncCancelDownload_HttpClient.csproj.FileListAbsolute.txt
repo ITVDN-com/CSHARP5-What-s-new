@@ -1,0 +1,13 @@
+C:\Cources\C# 5 async and await\Code\MS_AsyncWalkthrough_HttpClient\bin\Debug\AsyncWalkthrough_HttpClient.exe.config
+C:\Cources\C# 5 async and await\Code\MS_AsyncWalkthrough_HttpClient\bin\Debug\AsyncWalkthrough_HttpClient.exe
+C:\Cources\C# 5 async and await\Code\MS_AsyncWalkthrough_HttpClient\bin\Debug\AsyncWalkthrough_HttpClient.pdb
+C:\Cources\C# 5 async and await\Code\MS_AsyncWalkthrough_HttpClient\obj\Debug\MainWindow.baml
+C:\Cources\C# 5 async and await\Code\MS_AsyncWalkthrough_HttpClient\obj\Debug\MainWindow.g.cs
+C:\Cources\C# 5 async and await\Code\MS_AsyncWalkthrough_HttpClient\obj\Debug\App.g.cs
+C:\Cources\C# 5 async and await\Code\MS_AsyncWalkthrough_HttpClient\obj\Debug\AsyncWalkthrough_HttpClient_MarkupCompile.cache
+C:\Cources\C# 5 async and await\Code\MS_AsyncWalkthrough_HttpClient\obj\Debug\AsyncWalkthrough_HttpClient.g.resources
+C:\Cources\C# 5 async and await\Code\MS_AsyncWalkthrough_HttpClient\obj\Debug\AsyncWalkthrough_HttpClient.Properties.Resources.resources
+C:\Cources\C# 5 async and await\Code\MS_AsyncWalkthrough_HttpClient\obj\Debug\012_AsyncCancelDownload_HttpClient.csproj.GenerateResource.Cache
+C:\Cources\C# 5 async and await\Code\MS_AsyncWalkthrough_HttpClient\obj\Debug\AsyncWalkthrough_HttpClient.exe
+C:\Cources\C# 5 async and await\Code\MS_AsyncWalkthrough_HttpClient\obj\Debug\AsyncWalkthrough_HttpClient.pdb
+C:\Cources\C# 5 async and await\Code\MS_AsyncWalkthrough_HttpClient\obj\Debug\012_AsyncCancelDownload_HttpClient.csprojResolveAssemblyReference.cache

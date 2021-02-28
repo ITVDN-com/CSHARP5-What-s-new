@@ -1,0 +1,2 @@
+C:\Cources\C# 5 async and await\Code\AsyncFetch\obj\x86\Debug\AsyncFetch.exe
+C:\Cources\C# 5 async and await\Code\AsyncFetch\obj\x86\Debug\AsyncFetch.pdb

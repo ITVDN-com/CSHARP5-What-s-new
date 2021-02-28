@@ -1,0 +1,6 @@
+C:\Cources\C# 5 async and await\Code\009_AsyncUnderTheCovers\bin\Debug\009_AsyncUnderTheCovers.exe.config
+C:\Cources\C# 5 async and await\Code\009_AsyncUnderTheCovers\bin\Debug\009_AsyncUnderTheCovers.exe
+C:\Cources\C# 5 async and await\Code\009_AsyncUnderTheCovers\bin\Debug\009_AsyncUnderTheCovers.pdb
+C:\Cources\C# 5 async and await\Code\009_AsyncUnderTheCovers\obj\Debug\009_AsyncUnderTheCovers.csprojResolveAssemblyReference.cache
+C:\Cources\C# 5 async and await\Code\009_AsyncUnderTheCovers\obj\Debug\009_AsyncUnderTheCovers.exe
+C:\Cources\C# 5 async and await\Code\009_AsyncUnderTheCovers\obj\Debug\009_AsyncUnderTheCovers.pdb

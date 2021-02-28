@@ -1,0 +1,3 @@
+C:\Cources\C# 5 async and await\Code\ClosureBefore5\bin\Debug\ClosureBefore5.exe.config
+C:\Cources\C# 5 async and await\Code\ClosureBefore5\obj\Debug\ClosureBefore5.exe
+C:\Cources\C# 5 async and await\Code\ClosureBefore5\obj\Debug\ClosureBefore5.pdb

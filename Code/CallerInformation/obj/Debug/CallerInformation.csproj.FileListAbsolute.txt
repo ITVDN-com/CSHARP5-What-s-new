@@ -1,0 +1,5 @@
+C:\Cources\C# 5 async and await\Code\CallerInformation\bin\Debug\CallerInformation.exe.config
+C:\Cources\C# 5 async and await\Code\CallerInformation\bin\Debug\CallerInformation.exe
+C:\Cources\C# 5 async and await\Code\CallerInformation\bin\Debug\CallerInformation.pdb
+C:\Cources\C# 5 async and await\Code\CallerInformation\obj\Debug\CallerInformation.exe
+C:\Cources\C# 5 async and await\Code\CallerInformation\obj\Debug\CallerInformation.pdb

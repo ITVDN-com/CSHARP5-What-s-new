@@ -1,0 +1,5 @@
+C:\Cources\C# 5 async and await\Code\006_AsyncControllerMVC3\bin\04_AsyncController.dll
+C:\Cources\C# 5 async and await\Code\006_AsyncControllerMVC3\bin\04_AsyncController.pdb
+C:\Cources\C# 5 async and await\Code\006_AsyncControllerMVC3\obj\Debug\04_AsyncControllerMVC3.csprojResolveAssemblyReference.cache
+C:\Cources\C# 5 async and await\Code\006_AsyncControllerMVC3\obj\Debug\04_AsyncController.dll
+C:\Cources\C# 5 async and await\Code\006_AsyncControllerMVC3\obj\Debug\04_AsyncController.pdb

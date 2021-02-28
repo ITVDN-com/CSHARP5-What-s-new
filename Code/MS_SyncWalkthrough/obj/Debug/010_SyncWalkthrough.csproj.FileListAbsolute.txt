@@ -1,0 +1,13 @@
+C:\Cources\C# 5 async and await\Code\MS_SyncWalkthrough\bin\Debug\SyncWalkthrough.exe.config
+C:\Cources\C# 5 async and await\Code\MS_SyncWalkthrough\obj\Debug\SyncWalkthrough.exe
+C:\Cources\C# 5 async and await\Code\MS_SyncWalkthrough\obj\Debug\SyncWalkthrough.pdb
+C:\Cources\C# 5 async and await\Code\MS_SyncWalkthrough\bin\Debug\SyncWalkthrough.exe
+C:\Cources\C# 5 async and await\Code\MS_SyncWalkthrough\bin\Debug\SyncWalkthrough.pdb
+C:\Cources\C# 5 async and await\Code\MS_SyncWalkthrough\obj\Debug\010_SyncWalkthrough.csprojResolveAssemblyReference.cache
+C:\Cources\C# 5 async and await\Code\MS_SyncWalkthrough\obj\Debug\MainWindow.baml
+C:\Cources\C# 5 async and await\Code\MS_SyncWalkthrough\obj\Debug\MainWindow.g.cs
+C:\Cources\C# 5 async and await\Code\MS_SyncWalkthrough\obj\Debug\App.g.cs
+C:\Cources\C# 5 async and await\Code\MS_SyncWalkthrough\obj\Debug\SyncWalkthrough_MarkupCompile.cache
+C:\Cources\C# 5 async and await\Code\MS_SyncWalkthrough\obj\Debug\SyncWalkthrough.g.resources
+C:\Cources\C# 5 async and await\Code\MS_SyncWalkthrough\obj\Debug\SyncWalkthrough.Properties.Resources.resources
+C:\Cources\C# 5 async and await\Code\MS_SyncWalkthrough\obj\Debug\010_SyncWalkthrough.csproj.GenerateResource.Cache

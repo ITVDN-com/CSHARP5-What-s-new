@@ -1,0 +1,39 @@
+c:\users\sahnnyj\documents\visual studio 11\Projects\CSAsyncWalkthroughCode\CSAsyncWalkthroughCode\bin\Debug\CSAsyncWalkthroughCode.exe.config
+c:\users\sahnnyj\documents\visual studio 11\Projects\CSAsyncWalkthroughCode\CSAsyncWalkthroughCode\bin\Debug\CSAsyncWalkthroughCode.exe
+c:\users\sahnnyj\documents\visual studio 11\Projects\CSAsyncWalkthroughCode\CSAsyncWalkthroughCode\bin\Debug\CSAsyncWalkthroughCode.pdb
+c:\users\sahnnyj\documents\visual studio 11\Projects\CSAsyncWalkthroughCode\CSAsyncWalkthroughCode\obj\Debug\AsyncWalkthrough.csprojResolveAssemblyReference.cache
+c:\users\sahnnyj\documents\visual studio 11\Projects\CSAsyncWalkthroughCode\CSAsyncWalkthroughCode\obj\Debug\MainWindow.baml
+c:\users\sahnnyj\documents\visual studio 11\Projects\CSAsyncWalkthroughCode\CSAsyncWalkthroughCode\obj\Debug\MainWindow.g.cs
+c:\users\sahnnyj\documents\visual studio 11\Projects\CSAsyncWalkthroughCode\CSAsyncWalkthroughCode\obj\Debug\App.g.cs
+c:\users\sahnnyj\documents\visual studio 11\Projects\CSAsyncWalkthroughCode\CSAsyncWalkthroughCode\obj\Debug\CSAsyncWalkthroughCode_MarkupCompile.cache
+c:\users\sahnnyj\documents\visual studio 11\Projects\CSAsyncWalkthroughCode\CSAsyncWalkthroughCode\obj\Debug\CSAsyncWalkthroughCode.g.resources
+c:\users\sahnnyj\documents\visual studio 11\Projects\CSAsyncWalkthroughCode\CSAsyncWalkthroughCode\obj\Debug\AsyncWalkthrough.Properties.Resources.resources
+c:\users\sahnnyj\documents\visual studio 11\Projects\CSAsyncWalkthroughCode\CSAsyncWalkthroughCode\obj\Debug\AsyncWalkthrough.csproj.GenerateResource.Cache
+c:\users\sahnnyj\documents\visual studio 11\Projects\CSAsyncWalkthroughCode\CSAsyncWalkthroughCode\obj\Debug\CSAsyncWalkthroughCode.exe
+c:\users\sahnnyj\documents\visual studio 11\Projects\CSAsyncWalkthroughCode\CSAsyncWalkthroughCode\obj\Debug\CSAsyncWalkthroughCode.pdb
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\CSAsyncWalkthroughCode\CSAsyncWalkthroughCode\bin\Debug\CSAsyncWalkthroughCode.exe.config
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\CSAsyncWalkthroughCode\CSAsyncWalkthroughCode\obj\Debug\CSAsyncWalkthroughCode.exe
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\CSAsyncWalkthroughCode\CSAsyncWalkthroughCode\obj\Debug\CSAsyncWalkthroughCode.pdb
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\CSAsyncWalkthroughCode\CSAsyncWalkthroughCode\bin\Debug\CSAsyncWalkthroughCode.exe
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\CSAsyncWalkthroughCode\CSAsyncWalkthroughCode\bin\Debug\CSAsyncWalkthroughCode.pdb
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\CSAsyncWalkthroughCode\CSAsyncWalkthroughCode\obj\Debug\AsyncWalkthrough.csprojResolveAssemblyReference.cache
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\CSAsyncWalkthroughCode\CSAsyncWalkthroughCode\obj\Debug\MainWindow.baml
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\CSAsyncWalkthroughCode\CSAsyncWalkthroughCode\obj\Debug\MainWindow.g.cs
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\CSAsyncWalkthroughCode\CSAsyncWalkthroughCode\obj\Debug\App.g.cs
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\CSAsyncWalkthroughCode\CSAsyncWalkthroughCode\obj\Debug\CSAsyncWalkthroughCode_MarkupCompile.cache
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\CSAsyncWalkthroughCode\CSAsyncWalkthroughCode\obj\Debug\CSAsyncWalkthroughCode.g.resources
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\CSAsyncWalkthroughCode\CSAsyncWalkthroughCode\obj\Debug\AsyncWalkthrough.Properties.Resources.resources
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\CSAsyncWalkthroughCode\CSAsyncWalkthroughCode\obj\Debug\AsyncWalkthrough.csproj.GenerateResource.Cache
+C:\Cources\C# 5 async and await\Code\MS_CSAsyncWalkthroughCode\bin\Debug\CSAsyncWalkthroughCode.exe.config
+C:\Cources\C# 5 async and await\Code\MS_CSAsyncWalkthroughCode\obj\Debug\CSAsyncWalkthroughCode.exe
+C:\Cources\C# 5 async and await\Code\MS_CSAsyncWalkthroughCode\obj\Debug\CSAsyncWalkthroughCode.pdb
+C:\Cources\C# 5 async and await\Code\MS_CSAsyncWalkthroughCode\bin\Debug\CSAsyncWalkthroughCode.exe
+C:\Cources\C# 5 async and await\Code\MS_CSAsyncWalkthroughCode\bin\Debug\CSAsyncWalkthroughCode.pdb
+C:\Cources\C# 5 async and await\Code\MS_CSAsyncWalkthroughCode\obj\Debug\AsyncWalkthrough.csprojResolveAssemblyReference.cache
+C:\Cources\C# 5 async and await\Code\MS_CSAsyncWalkthroughCode\obj\Debug\MainWindow.baml
+C:\Cources\C# 5 async and await\Code\MS_CSAsyncWalkthroughCode\obj\Debug\MainWindow.g.cs
+C:\Cources\C# 5 async and await\Code\MS_CSAsyncWalkthroughCode\obj\Debug\App.g.cs
+C:\Cources\C# 5 async and await\Code\MS_CSAsyncWalkthroughCode\obj\Debug\CSAsyncWalkthroughCode_MarkupCompile.cache
+C:\Cources\C# 5 async and await\Code\MS_CSAsyncWalkthroughCode\obj\Debug\CSAsyncWalkthroughCode.g.resources
+C:\Cources\C# 5 async and await\Code\MS_CSAsyncWalkthroughCode\obj\Debug\AsyncWalkthrough.Properties.Resources.resources
+C:\Cources\C# 5 async and await\Code\MS_CSAsyncWalkthroughCode\obj\Debug\AsyncWalkthrough.csproj.GenerateResource.Cache

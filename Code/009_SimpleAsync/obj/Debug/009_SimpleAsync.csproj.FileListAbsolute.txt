@@ -1,0 +1,1 @@
+C:\Cources\C# 5 async and await\Code\009_SimpleAsync\bin\Debug\009_SimpleAsync.exe.config

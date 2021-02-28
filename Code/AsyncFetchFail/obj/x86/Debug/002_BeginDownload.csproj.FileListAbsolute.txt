@@ -1,0 +1,13 @@
+C:\Cources\C# 5 async and await\Code\AsyncFetch\bin\Debug\AsyncFetch.exe
+C:\Cources\C# 5 async and await\Code\AsyncFetch\bin\Debug\AsyncFetch.pdb
+C:\Cources\C# 5 async and await\Code\AsyncFetch\obj\x86\Debug\MainWindow.baml
+C:\Cources\C# 5 async and await\Code\AsyncFetch\obj\x86\Debug\MainWindow.g.cs
+C:\Cources\C# 5 async and await\Code\AsyncFetch\obj\x86\Debug\App.g.cs
+C:\Cources\C# 5 async and await\Code\AsyncFetch\obj\x86\Debug\AsyncFetch_MarkupCompile.cache
+C:\Cources\C# 5 async and await\Code\AsyncFetch\obj\x86\Debug\AsyncFetch.g.resources
+C:\Cources\C# 5 async and await\Code\AsyncFetch\obj\x86\Debug\AsyncFetch.Properties.Resources.resources
+C:\Cources\C# 5 async and await\Code\AsyncFetch\obj\x86\Debug\002_BeginDownload.csproj.GenerateResource.Cache
+C:\Cources\C# 5 async and await\Code\AsyncFetch\obj\x86\Debug\AsyncFetch.exe
+C:\Cources\C# 5 async and await\Code\AsyncFetch\obj\x86\Debug\AsyncFetch.pdb
+C:\Cources\C# 5 async and await\Code\AsyncFetchFail\obj\x86\Debug\AsyncFetch.exe
+C:\Cources\C# 5 async and await\Code\AsyncFetchFail\obj\x86\Debug\AsyncFetch.pdb

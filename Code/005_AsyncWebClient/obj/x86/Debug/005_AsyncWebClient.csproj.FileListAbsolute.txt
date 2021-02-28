@@ -1,0 +1,13 @@
+C:\Cources\C# 5 async and await\Code\005_AsyncWebClient\bin\Debug\AsyncFetch.exe.config
+C:\Cources\C# 5 async and await\Code\005_AsyncWebClient\obj\x86\Debug\AsyncFetch.exe
+C:\Cources\C# 5 async and await\Code\005_AsyncWebClient\obj\x86\Debug\AsyncFetch.pdb
+C:\Cources\C# 5 async and await\Code\005_AsyncWebClient\bin\Debug\AsyncFetch.exe
+C:\Cources\C# 5 async and await\Code\005_AsyncWebClient\bin\Debug\AsyncFetch.pdb
+C:\Cources\C# 5 async and await\Code\005_AsyncWebClient\obj\x86\Debug\005_AsyncWebClient.csprojResolveAssemblyReference.cache
+C:\Cources\C# 5 async and await\Code\005_AsyncWebClient\obj\x86\Debug\MainWindow.baml
+C:\Cources\C# 5 async and await\Code\005_AsyncWebClient\obj\x86\Debug\MainWindow.g.cs
+C:\Cources\C# 5 async and await\Code\005_AsyncWebClient\obj\x86\Debug\App.g.cs
+C:\Cources\C# 5 async and await\Code\005_AsyncWebClient\obj\x86\Debug\AsyncFetch_MarkupCompile.cache
+C:\Cources\C# 5 async and await\Code\005_AsyncWebClient\obj\x86\Debug\AsyncFetch.g.resources
+C:\Cources\C# 5 async and await\Code\005_AsyncWebClient\obj\x86\Debug\AsyncFetch.Properties.Resources.resources
+C:\Cources\C# 5 async and await\Code\005_AsyncWebClient\obj\x86\Debug\005_AsyncWebClient.csproj.GenerateResource.Cache

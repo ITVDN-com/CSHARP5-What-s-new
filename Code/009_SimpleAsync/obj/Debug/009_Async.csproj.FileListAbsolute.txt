@@ -1,0 +1,6 @@
+C:\Cources\C# 5 async and await\Code\009_SimpleAsync\bin\Debug\009_SimpleAsync.exe.config
+C:\Cources\C# 5 async and await\Code\009_SimpleAsync\bin\Debug\009_SimpleAsync.exe
+C:\Cources\C# 5 async and await\Code\009_SimpleAsync\bin\Debug\009_SimpleAsync.pdb
+C:\Cources\C# 5 async and await\Code\009_SimpleAsync\obj\Debug\009_Async.csprojResolveAssemblyReference.cache
+C:\Cources\C# 5 async and await\Code\009_SimpleAsync\obj\Debug\009_SimpleAsync.exe
+C:\Cources\C# 5 async and await\Code\009_SimpleAsync\obj\Debug\009_SimpleAsync.pdb

@@ -1,0 +1,28 @@
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\CSAsyncWalkthroughCode\AsyncWalkthrough_HttpClient\bin\Debug\AsyncWalkthrough_HttpClient.exe.config
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\CSAsyncWalkthroughCode\AsyncWalkthrough_HttpClient\obj\Debug\MainWindow.baml
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\CSAsyncWalkthroughCode\AsyncWalkthrough_HttpClient\obj\Debug\MainWindow.g.cs
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\CSAsyncWalkthroughCode\AsyncWalkthrough_HttpClient\obj\Debug\App.g.cs
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\CSAsyncWalkthroughCode\AsyncWalkthrough_HttpClient\obj\Debug\AsyncWalkthrough_HttpClient_MarkupCompile.cache
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\CSAsyncWalkthroughCode\AsyncWalkthrough_HttpClient\obj\Debug\AsyncWalkthrough_HttpClient.g.resources
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\CSAsyncWalkthroughCode\AsyncWalkthrough_HttpClient\obj\Debug\AsyncWalkthrough_HttpClient.Properties.Resources.resources
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\CSAsyncWalkthroughCode\AsyncWalkthrough_HttpClient\obj\Debug\AsyncWalkthrough_HttpClient.csproj.GenerateResource.Cache
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\CSAsyncWalkthroughCode\AsyncWalkthrough_HttpClient\bin\Debug\AsyncWalkthrough_HttpClient.exe
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\CSAsyncWalkthroughCode\AsyncWalkthrough_HttpClient\bin\Debug\AsyncWalkthrough_HttpClient.pdb
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\CSAsyncWalkthroughCode\AsyncWalkthrough_HttpClient\obj\Debug\AsyncWalkthrough_HttpClient.exe
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\CSAsyncWalkthroughCode\AsyncWalkthrough_HttpClient\obj\Debug\AsyncWalkthrough_HttpClient.pdb
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\Post on MSDN\CSAsyncWalkthroughCode\AsyncWalkthrough_HttpClient\bin\Debug\AsyncWalkthrough_HttpClient.exe.config
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\Post on MSDN\CSAsyncWalkthroughCode\AsyncWalkthrough_HttpClient\obj\Debug\AsyncWalkthrough_HttpClient.exe
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\Post on MSDN\CSAsyncWalkthroughCode\AsyncWalkthrough_HttpClient\obj\Debug\AsyncWalkthrough_HttpClient.pdb
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\Post on MSDN\CSAsyncWalkthroughCode\AsyncWalkthrough_HttpClient\bin\Debug\AsyncWalkthrough_HttpClient.exe
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\Post on MSDN\CSAsyncWalkthroughCode\AsyncWalkthrough_HttpClient\bin\Debug\AsyncWalkthrough_HttpClient.pdb
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\Post on MSDN\CSAsyncWalkthroughCode\AsyncWalkthrough_HttpClient\obj\Debug\AsyncWalkthrough_HttpClient.csprojResolveAssemblyReference.cache
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\Post on MSDN\CSAsyncWalkthroughCode\AsyncWalkthrough_HttpClient\obj\Debug\MainWindow.baml
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\Post on MSDN\CSAsyncWalkthroughCode\AsyncWalkthrough_HttpClient\obj\Debug\MainWindow.g.cs
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\Post on MSDN\CSAsyncWalkthroughCode\AsyncWalkthrough_HttpClient\obj\Debug\App.g.cs
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\Post on MSDN\CSAsyncWalkthroughCode\AsyncWalkthrough_HttpClient\obj\Debug\AsyncWalkthrough_HttpClient_MarkupCompile.cache
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\Post on MSDN\CSAsyncWalkthroughCode\AsyncWalkthrough_HttpClient\obj\Debug\AsyncWalkthrough_HttpClient.g.resources
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\Post on MSDN\CSAsyncWalkthroughCode\AsyncWalkthrough_HttpClient\obj\Debug\AsyncWalkthrough_HttpClient.Properties.Resources.resources
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\Post on MSDN\CSAsyncWalkthroughCode\AsyncWalkthrough_HttpClient\obj\Debug\AsyncWalkthrough_HttpClient.csproj.GenerateResource.Cache
+C:\Cources\C# 5 async and await\Code\MS_AsyncWalkthrough_HttpClient\bin\Debug\AsyncWalkthrough_HttpClient.exe.config
+C:\Cources\C# 5 async and await\Code\MS_AsyncWalkthrough_HttpClient\obj\Debug\AsyncWalkthrough_HttpClient.exe
+C:\Cources\C# 5 async and await\Code\MS_AsyncWalkthrough_HttpClient\obj\Debug\AsyncWalkthrough_HttpClient.pdb

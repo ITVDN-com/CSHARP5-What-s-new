@@ -1,0 +1,34 @@
+D:\Work\Lessons\ASP.NET MVC 3\003_Controllers_and_Actions\ControllerExtensibility\04_AsyncController\bin\04_AsyncController.dll
+D:\Work\Lessons\ASP.NET MVC 3\003_Controllers_and_Actions\ControllerExtensibility\04_AsyncController\bin\04_AsyncController.pdb
+D:\Work\Lessons\ASP.NET MVC 3\003_Controllers_and_Actions\ControllerExtensibility\04_AsyncController\bin\EntityFramework.dll
+D:\Work\Lessons\ASP.NET MVC 3\003_Controllers_and_Actions\ControllerExtensibility\04_AsyncController\bin\EntityFramework.xml
+D:\Work\Lessons\ASP.NET MVC 3\003_Controllers_and_Actions\ControllerExtensibility\04_AsyncController\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\ASP.NET MVC 3\003_Controllers_and_Actions\ControllerExtensibility\04_AsyncController\obj\Debug\04_AsyncController.dll
+D:\Work\Lessons\ASP.NET MVC 3\003_Controllers_and_Actions\ControllerExtensibility\04_AsyncController\obj\Debug\04_AsyncController.pdb
+D:\Work\Lessons\ASP.NET MVC 3\003_Controllers_and_Actions\002_ControllerExtensibility\04_AsyncController\bin\04_AsyncController.dll
+D:\Work\Lessons\ASP.NET MVC 3\003_Controllers_and_Actions\002_ControllerExtensibility\04_AsyncController\bin\04_AsyncController.pdb
+D:\Work\Lessons\ASP.NET MVC 3\003_Controllers_and_Actions\002_ControllerExtensibility\04_AsyncController\bin\EntityFramework.dll
+D:\Work\Lessons\ASP.NET MVC 3\003_Controllers_and_Actions\002_ControllerExtensibility\04_AsyncController\bin\EntityFramework.xml
+D:\Work\Lessons\ASP.NET MVC 3\003_Controllers_and_Actions\002_ControllerExtensibility\04_AsyncController\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\ASP.NET MVC 3\003_Controllers_and_Actions\002_ControllerExtensibility\04_AsyncController\obj\Debug\04_AsyncController.dll
+D:\Work\Lessons\ASP.NET MVC 3\003_Controllers_and_Actions\002_ControllerExtensibility\04_AsyncController\obj\Debug\04_AsyncController.pdb
+E:\Work\Lessons\ASP.NET MVC 3\003_Controllers_and_Actions\002_ControllerExtensibility\04_AsyncController\bin\04_AsyncController.dll
+E:\Work\Lessons\ASP.NET MVC 3\003_Controllers_and_Actions\002_ControllerExtensibility\04_AsyncController\bin\04_AsyncController.pdb
+E:\Work\Lessons\ASP.NET MVC 3\003_Controllers_and_Actions\002_ControllerExtensibility\04_AsyncController\bin\EntityFramework.dll
+E:\Work\Lessons\ASP.NET MVC 3\003_Controllers_and_Actions\002_ControllerExtensibility\04_AsyncController\bin\EntityFramework.xml
+E:\Work\Lessons\ASP.NET MVC 3\003_Controllers_and_Actions\002_ControllerExtensibility\04_AsyncController\obj\Debug\04_AsyncController.csprojResolveAssemblyReference.cache
+E:\Work\Lessons\ASP.NET MVC 3\003_Controllers_and_Actions\002_ControllerExtensibility\04_AsyncController\obj\Debug\04_AsyncController.dll
+E:\Work\Lessons\ASP.NET MVC 3\003_Controllers_and_Actions\002_ControllerExtensibility\04_AsyncController\obj\Debug\04_AsyncController.pdb
+C:\Cources\ASP.NET MVC3\003_Controllers_and_Actions\002_ControllerExtensibility\04_AsyncController\bin\04_AsyncController.dll
+C:\Cources\ASP.NET MVC3\003_Controllers_and_Actions\002_ControllerExtensibility\04_AsyncController\bin\04_AsyncController.pdb
+C:\Cources\ASP.NET MVC3\003_Controllers_and_Actions\002_ControllerExtensibility\04_AsyncController\bin\EntityFramework.dll
+C:\Cources\ASP.NET MVC3\003_Controllers_and_Actions\002_ControllerExtensibility\04_AsyncController\bin\EntityFramework.xml
+C:\Cources\ASP.NET MVC3\003_Controllers_and_Actions\002_ControllerExtensibility\04_AsyncController\obj\Debug\04_AsyncController.dll
+C:\Cources\ASP.NET MVC3\003_Controllers_and_Actions\002_ControllerExtensibility\04_AsyncController\obj\Debug\04_AsyncController.pdb
+C:\Cources\ASP.NET MVC3\003_Controllers_and_Actions\002_ControllerExtensibility\04_AsyncController\obj\Debug\04_AsyncController.csprojResolveAssemblyReference.cache
+C:\Cources\C# 5 async and await\Code\006_AsyncControllerMVC3\bin\04_AsyncController.dll
+C:\Cources\C# 5 async and await\Code\006_AsyncControllerMVC3\bin\04_AsyncController.pdb
+C:\Cources\C# 5 async and await\Code\006_AsyncControllerMVC3\bin\EntityFramework.xml
+C:\Cources\C# 5 async and await\Code\006_AsyncControllerMVC3\obj\Debug\04_AsyncController.csprojResolveAssemblyReference.cache
+C:\Cources\C# 5 async and await\Code\006_AsyncControllerMVC3\obj\Debug\04_AsyncController.dll
+C:\Cources\C# 5 async and await\Code\006_AsyncControllerMVC3\obj\Debug\04_AsyncController.pdb

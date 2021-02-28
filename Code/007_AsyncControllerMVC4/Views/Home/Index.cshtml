@@ -1,0 +1,18 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        @Html.ActionLink("Вызвать удаленную службу", "GetData")
+        <br />
+        @Html.ActionLink("Вызвать удаленную службу (Асинхронный контроллер)", "GetData", "MyAsync")
+    </div>
+</body>
+</html>
